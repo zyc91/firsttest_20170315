@@ -1,5 +1,7 @@
 package main.bean;
 
+import java.util.Date;
+
 /**
  * @author zhaoyicong
  * @date 17/3/17
@@ -8,4 +10,6 @@ package main.bean;
 public class CocoBean {
 
     private String name;
+    private Date time;
+
 }
