@@ -1,0 +1,12 @@
+dea/*
+*.iml
+*/target/*
+*/.settings/*
+.settings/*
+.classpath
+*/.classpath
+.springBeans
+*/.springBeans
+*.project
+soa-backup/*
+*/soa-backup/*
