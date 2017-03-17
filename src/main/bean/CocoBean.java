@@ -11,5 +11,6 @@ public class CocoBean {
 
     private String name;
     private Date time;
+    private String touch;
 
 }
