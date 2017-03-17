@@ -6,4 +6,6 @@ package main.bean;
  * @description
  */
 public class CocoBean {
+
+    private String name;
 }
